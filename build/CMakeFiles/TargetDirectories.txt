@@ -1,0 +1,4 @@
+/home/him/github/rknn_data/build/CMakeFiles/yolov8n_infer.dir
+/home/him/github/rknn_data/build/CMakeFiles/yolov8n_rknn.dir
+/home/him/github/rknn_data/build/CMakeFiles/edit_cache.dir
+/home/him/github/rknn_data/build/CMakeFiles/rebuild_cache.dir

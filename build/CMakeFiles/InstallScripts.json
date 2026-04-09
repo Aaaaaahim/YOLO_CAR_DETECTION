@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/him/github/rknn_data/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
